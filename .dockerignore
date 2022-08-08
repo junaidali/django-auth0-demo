@@ -1,0 +1,10 @@
+# Ignore everything
+**
+
+# ... except for dependencies and source
+!Pipfile
+!Pipfile.lock
+!todo/
+!manage.py
+!entry-point.sh
+!wait-for-it.sh
